@@ -1,0 +1,5 @@
+Program Vidu;
+Begin
+	Y = 1;
+	X:=(10+2)/Y;
+End.
